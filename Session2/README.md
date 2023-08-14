@@ -4,11 +4,11 @@
 
 ![Step 1](imgs/step_1.png)
 
-## Step 2: Listing and exetracting hidden compressed file
+## Step 2: Listing contents, extracting hidden compressed file and entering .level-1
 
 ![Step 2](imgs/step_2.png)
 
-## Step 3: Entering .level-1 directory and decompressing level-2
+## Step 3: listing directory contents and decompressing level-2
 (Note: using the v option lists all contents upon extracting/decompressing, thus the lines at the bottom)
 
 ![Step 3](imgs/step_3.png)
