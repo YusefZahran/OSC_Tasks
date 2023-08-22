@@ -2,11 +2,11 @@
 
 ## Step 1: Creating new user "osc" and new group "osc_group"
 
-![Step 1](imgs/step_1)
+![Step 1](imgs/step_1.png)
 
 ## Step 2: Making 3 files and changing permissions
 
-![Step 2](imgs/step_2)
+![Step 2](imgs/step_2.png)
 
 ## Step 3: Changing file ownership
 
