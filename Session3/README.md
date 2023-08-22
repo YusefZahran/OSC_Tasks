@@ -18,7 +18,7 @@
 
 ## Step 4.2: Installing Vim
 
-Note: vim was installed and was needed for the following step, so I installed it and included it as a step
+Note: vim was not installed on the system and was needed for the following step, so I installed it and included it as a step
 
 ![Step 4.2](imgs/step_5.png)
 
