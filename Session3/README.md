@@ -18,13 +18,13 @@
 
 ## Step 4.2: Installing Vim
 
-Note: vim was not installed on the system and was needed for the following step, so I installed it and included it as a step
+Note: vim was not on the system and was needed for the following step, so I installed it and included it as a step
 
 ![Step 4.2](imgs/step_5.png)
 
 ## Step 4.3: Running Vim and killing it
 
-Note: the sleep process was terminated previously so it no longer shows in ps, and and "T" shows under the S column for vim in the ps -l command, signifying it being terminated
+Note: the sleep process was terminated previously so it no longer shows in ps, and "T" shows under the S column for vim in the ps -l command, signifying it being terminated
 
 ![Step 4.3](imgs/step_6.png)
 
