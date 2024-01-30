@@ -1,0 +1,53 @@
+Step 1: Opening task directory and viewing contents: 
+cd Downloads
+cd Updated_task-02
+ls
+cat README.txt
+
+Step 2: Listing directory contents, decompressoing and entering .level-1
+ls -a
+tar -xvf .level-1
+ls -a
+cd .level-1
+
+Step 3: Listing directory conents and decompressing level-2
+ls
+cat README.txt
+file level-2
+mv level-2 level-2.tar
+tar -xvf level-2.tar
+
+Step 4: Entering level-2 anf finding level-3 directory
+cd level-2
+ls
+find -name *level-3
+cd gBT5u0vLT5
+ls
+
+Step 5: Reading README.txt and decompressing level-3
+cd ..
+cat README.txt
+cd gBT5u0vLT5
+file level-3
+mv level-3 level-3.tar
+tar -xvjf level-3.tar
+
+Step 6: Entering level-3 directory
+ls
+cd level-3
+
+Step 7: Listing level-3 contents and reading README file
+ls
+cat README.txt
+
+Step 8: Finding symbolic link and the file pointed to
+file X6lkChFKsj
+file WfUKyzFeEv
+cat WfUKyzFeEv
+
+Step 9: Finding file with designated size and reading its contents
+find -size 73c
+cat m7lRDpRTUJ/xVMvVOKNW5
+
+
+

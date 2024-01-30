@@ -1,0 +1,45 @@
+step 1:
+mkdir ~/"Youssef Zahran"
+cd Youssef\ Zahran/
+
+step 2:
+mkdir Documents
+cd Documents/
+touch file1.txt file2.txt file3.txt
+ls
+
+step 3:
+cd ..
+touch .hidden_file
+ls -a 
+
+step 4:
+nano ./Documents/file1.txt
+cat ./Documents/file.txt
+
+step 5:
+cd ./Documents
+
+step 6:
+mkdir -
+cd ./-
+
+step 7:
+cd ~/Youssef\ Zahran
+cp -r Documents/ ~/Youssef\ Zahran/My_Documents
+ls
+
+step 8:
+cat .hidden_file
+
+step 9:
+cd Documents/
+mv file2.txt ~/Youssef\ Zahran
+mv file3.txt ~/Youssef\ Zahran
+cd ..
+ls
+
+step 10:
+cd ~
+rm -r Youssef\ Zahran
+ls
